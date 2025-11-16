@@ -1,6 +1,7 @@
 app = "abuab12345"
 
 [build]
+image = "python:3.11"
 
 [env]
 PYTHONUNBUFFERED = "1"
